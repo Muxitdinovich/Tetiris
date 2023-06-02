@@ -9,6 +9,8 @@ pip install pycopy-copy
 
 git clone https://github.com/Muxitdinovich/Tetiris.git
 
+cd Tetiris
+
 Run:
 
 python tetiris.py
