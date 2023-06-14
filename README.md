@@ -1,8 +1,6 @@
 # Tetiris
 #  Привет, дорогие друзья.
 Я буду вкладовать свои програмы. Поддержите меняб это будет полезно и вам. Cпасибо за внимания!!!
-
-Tetiris:
 <pre>
 pip install pygame
 
@@ -12,8 +10,8 @@ git clone https://github.com/Muxitdinovich/Tetiris.git
 
 cd Tetiris
 </pre>
-Run:
+# Запустить
 <pre>
 python tetiris.py
 </pre>
-Поддержка: https://hablonly.netlify.app 👈
+# Поддержка: https://hablonly.netlify.app 👈
